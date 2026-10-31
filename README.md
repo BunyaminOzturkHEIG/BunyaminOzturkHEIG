@@ -9,7 +9,7 @@
 ## 🛠️ What I'm learning
 - HTML5
 - CSS
-- JavaScript
+- Java
 - Git & GitHub
 
 ## 📂 Projects
