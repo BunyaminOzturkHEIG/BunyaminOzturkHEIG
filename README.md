@@ -13,7 +13,8 @@
 - Git & GitHub
 
 ## 📂 Projects
-- [docweb](https://github.com/BunyaminOzturkHEIG/docweb) – my HTML/CSS exercises for the DocWeb course · [live site](https://bunyaminozturkheig.github.io/docweb/)
+- [Pratique des Sélecteurs CSS](https://github.com/BunyaminOzturkHEIG/pratique-des-selecteurs-css) — Exercices HTML/CSS pour le cours DocWeb · [site live](https://bunyaminozturkheig.github.io/pratique-des-selecteurs-css/)
+- [Palettes — nuit autogérée](https://github.com/BunyaminOzturkHEIG/palettes-nuit-autogeree) — Projet HTML/CSS
 
 ## 🌍 Languages
 French · English
